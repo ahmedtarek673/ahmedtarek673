@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer & Professional Video Editor
 
-I build intelligent digital solutions and create compelling visual stories. My work spans from AI-powered automation and CRM systems to high-impact mobile apps and video content.
+I build intelligent digital solutions and create compelling visual stories. My work spans from AI-powered automation and CRM systems to high-impact mobile apps and professional web platforms.
 
 ---
 
@@ -22,10 +22,13 @@ I build intelligent digital solutions and create compelling visual stories. My w
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [**Finansak CRM**](https://github.com/ahmedtarek673/finansak-crm) | High-performance financial services CRM with analytics. | React, Supabase, Tailwind |
 | [**PGX Agency App**](https://github.com/ahmedtarek673/pgx-agency-app) | Premium React Native app for digital agency management. | Expo, Firebase, React Native |
-| [**WhatsApp Bot Render**](https://github.com/ahmedtarek673/whatsapp-bot-render) | AI-powered WhatsApp bot integrated with Notion for automated workflows. | Baileys, Groq AI, Notion API |
-| [**One2One CRM**](https://github.com/ahmedtarek673/one2one-crm) | A comprehensive CRM for lead management, sales tracking, and reporting. | React, Supabase, Tailwind |
-| [**Video Editor Portfolio**](https://github.com/ahmedtarek673/video-editor-portfolio) | Professional portfolio showcasing my video editing work and creative projects. | HTML/CSS, JS |
+| [**Mindrive Website**](https://github.com/ahmedtarek673/mindrive-website) | Professional agency website with AI agents and UI/UX showcase. | HTML/CSS, Firebase |
+| [**WhatsApp Bot Render**](https://github.com/ahmedtarek673/whatsapp-bot-render) | AI-powered WhatsApp bot with Notion integration. | Baileys, Groq AI, Notion API |
+| [**One2One CRM**](https://github.com/ahmedtarek673/one2one-crm) | Full-stack CRM for lead & sales management. | React, Supabase, Tailwind |
+| [**Video Portfolio**](https://github.com/ahmedtarek673/video-editor-portfolio) | Professional video editor portfolio showcasing creative works. | HTML/CSS, JS |
+| [**Tarek Personal Web**](https://github.com/ahmedtarek673/tarek-personal-website) | Sleek personal landing page and brand identity. | HTML/CSS, Vanilla JS |
 
 ---
 
