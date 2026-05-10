@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer & Professional Video Editor
 
-I build intelligent digital solutions and create compelling visual stories. My work spans from AI-powered automation and CRM systems to high-impact video content.
+I build intelligent digital solutions and create compelling visual stories. My work spans from AI-powered automation and CRM systems to high-impact mobile apps and video content.
 
 ---
 
@@ -22,6 +22,7 @@ I build intelligent digital solutions and create compelling visual stories. My w
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [**PGX Agency App**](https://github.com/ahmedtarek673/pgx-agency-app) | Premium React Native app for digital agency management. | Expo, Firebase, React Native |
 | [**WhatsApp Bot Render**](https://github.com/ahmedtarek673/whatsapp-bot-render) | AI-powered WhatsApp bot integrated with Notion for automated workflows. | Baileys, Groq AI, Notion API |
 | [**One2One CRM**](https://github.com/ahmedtarek673/one2one-crm) | A comprehensive CRM for lead management, sales tracking, and reporting. | React, Supabase, Tailwind |
 | [**Video Editor Portfolio**](https://github.com/ahmedtarek673/video-editor-portfolio) | Professional portfolio showcasing my video editing work and creative projects. | HTML/CSS, JS |
